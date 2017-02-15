@@ -1,1 +1,1 @@
-my naïve work.
+my naive work.
